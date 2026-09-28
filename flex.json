@@ -1,0 +1,329 @@
+{
+  "type": "flex",
+  "altText": "10 堂 Python 新手課程",
+  "contents": {
+    "type": "carousel",
+    "contents": [
+      {
+        "type": "bubble",
+        "size": "mega",
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "spacing": "md",
+          "contents": [
+            {
+              "type": "text",
+              "text": "LESSON 01",
+              "size": "xs",
+              "color": "#06C755",
+              "weight": "bold"
+            },
+            {
+              "type": "text",
+              "text": "Python 是什麼？",
+              "size": "xl",
+              "weight": "bold",
+              "wrap": true
+            },
+            {
+              "type": "text",
+              "text": "認識 Python、安裝環境，並完成第一支 Hello World 程式。",
+              "size": "sm",
+              "color": "#667085",
+              "wrap": true
+            }
+          ]
+        }
+      },
+      {
+        "type": "bubble",
+        "size": "mega",
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "spacing": "md",
+          "contents": [
+            {
+              "type": "text",
+              "text": "LESSON 02",
+              "size": "xs",
+              "color": "#06C755",
+              "weight": "bold"
+            },
+            {
+              "type": "text",
+              "text": "變數與資料型別",
+              "size": "xl",
+              "weight": "bold",
+              "wrap": true
+            },
+            {
+              "type": "text",
+              "text": "學習字串、數字、布林值與變數命名，建立程式資料觀念。",
+              "size": "sm",
+              "color": "#667085",
+              "wrap": true
+            }
+          ]
+        }
+      },
+      {
+        "type": "bubble",
+        "size": "mega",
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "spacing": "md",
+          "contents": [
+            {
+              "type": "text",
+              "text": "LESSON 03",
+              "size": "xs",
+              "color": "#06C755",
+              "weight": "bold"
+            },
+            {
+              "type": "text",
+              "text": "輸入、輸出與格式化",
+              "size": "xl",
+              "weight": "bold",
+              "wrap": true
+            },
+            {
+              "type": "text",
+              "text": "使用 input()、print() 與 f-string，讓程式能和使用者互動。",
+              "size": "sm",
+              "color": "#667085",
+              "wrap": true
+            }
+          ]
+        }
+      },
+      {
+        "type": "bubble",
+        "size": "mega",
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "spacing": "md",
+          "contents": [
+            {
+              "type": "text",
+              "text": "LESSON 04",
+              "size": "xs",
+              "color": "#06C755",
+              "weight": "bold"
+            },
+            {
+              "type": "text",
+              "text": "條件判斷",
+              "size": "xl",
+              "weight": "bold",
+              "wrap": true
+            },
+            {
+              "type": "text",
+              "text": "掌握 if、elif、else 與比較運算，做出會判斷的程式。",
+              "size": "sm",
+              "color": "#667085",
+              "wrap": true
+            }
+          ]
+        }
+      },
+      {
+        "type": "bubble",
+        "size": "mega",
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "spacing": "md",
+          "contents": [
+            {
+              "type": "text",
+              "text": "LESSON 05",
+              "size": "xs",
+              "color": "#06C755",
+              "weight": "bold"
+            },
+            {
+              "type": "text",
+              "text": "迴圈基礎",
+              "size": "xl",
+              "weight": "bold",
+              "wrap": true
+            },
+            {
+              "type": "text",
+              "text": "用 for 與 while 重複執行任務，寫出更有效率的程式流程。",
+              "size": "sm",
+              "color": "#667085",
+              "wrap": true
+            }
+          ]
+        }
+      },
+      {
+        "type": "bubble",
+        "size": "mega",
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "spacing": "md",
+          "contents": [
+            {
+              "type": "text",
+              "text": "LESSON 06",
+              "size": "xs",
+              "color": "#06C755",
+              "weight": "bold"
+            },
+            {
+              "type": "text",
+              "text": "List 與 Dictionary",
+              "size": "xl",
+              "weight": "bold",
+              "wrap": true
+            },
+            {
+              "type": "text",
+              "text": "學會整理多筆資料，使用串列與字典建立小型資料表。",
+              "size": "sm",
+              "color": "#667085",
+              "wrap": true
+            }
+          ]
+        }
+      },
+      {
+        "type": "bubble",
+        "size": "mega",
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "spacing": "md",
+          "contents": [
+            {
+              "type": "text",
+              "text": "LESSON 07",
+              "size": "xs",
+              "color": "#06C755",
+              "weight": "bold"
+            },
+            {
+              "type": "text",
+              "text": "函式入門",
+              "size": "xl",
+              "weight": "bold",
+              "wrap": true
+            },
+            {
+              "type": "text",
+              "text": "用 def 建立可重複使用的程式區塊，理解參數與回傳值。",
+              "size": "sm",
+              "color": "#667085",
+              "wrap": true
+            }
+          ]
+        }
+      },
+      {
+        "type": "bubble",
+        "size": "mega",
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "spacing": "md",
+          "contents": [
+            {
+              "type": "text",
+              "text": "LESSON 08",
+              "size": "xs",
+              "color": "#06C755",
+              "weight": "bold"
+            },
+            {
+              "type": "text",
+              "text": "錯誤處理",
+              "size": "xl",
+              "weight": "bold",
+              "wrap": true
+            },
+            {
+              "type": "text",
+              "text": "看懂錯誤訊息，使用 try / except 讓程式更穩定。",
+              "size": "sm",
+              "color": "#667085",
+              "wrap": true
+            }
+          ]
+        }
+      },
+      {
+        "type": "bubble",
+        "size": "mega",
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "spacing": "md",
+          "contents": [
+            {
+              "type": "text",
+              "text": "LESSON 09",
+              "size": "xs",
+              "color": "#06C755",
+              "weight": "bold"
+            },
+            {
+              "type": "text",
+              "text": "檔案讀寫",
+              "size": "xl",
+              "weight": "bold",
+              "wrap": true
+            },
+            {
+              "type": "text",
+              "text": "讀取與寫入文字檔，保存程式執行結果與學習紀錄。",
+              "size": "sm",
+              "color": "#667085",
+              "wrap": true
+            }
+          ]
+        }
+      },
+      {
+        "type": "bubble",
+        "size": "mega",
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "spacing": "md",
+          "contents": [
+            {
+              "type": "text",
+              "text": "LESSON 10",
+              "size": "xs",
+              "color": "#06C755",
+              "weight": "bold"
+            },
+            {
+              "type": "text",
+              "text": "完成小專案",
+              "size": "xl",
+              "weight": "bold",
+              "wrap": true
+            },
+            {
+              "type": "text",
+              "text": "整合前面所學，做出一個簡單的猜數字或待辦清單程式。",
+              "size": "sm",
+              "color": "#667085",
+              "wrap": true
+            }
+          ]
+        }
+      }
+    ]
+  }
+}
